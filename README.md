@@ -124,10 +124,6 @@ Contributions welcome! Please follow these steps:
 3. Create feature branch
 4. Submit PR with detailed description
 
-## 📜 License
-
-MIT License - Add license file to repo
-
 ## 🙏 Acknowledgments
 
 - Cryptography.io team for excellent Python bindings
